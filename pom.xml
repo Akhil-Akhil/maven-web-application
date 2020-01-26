@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.250.82:8081/repository/fipkart-release/</url>
+	      <url>http://52.66.245.86:8081/repository/fipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.250.82:8081/repository/fipkart-snapshot/</url>
+	      <url>http://52.66.245.86:8081/repository/fipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
