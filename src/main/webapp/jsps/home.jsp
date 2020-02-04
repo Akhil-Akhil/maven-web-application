@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies.</h1>
+<h1 align="center">Welcome to Akhil software solutions.</h1>
 <h1 align="center"> Hello everyone Good morning!! We have new Batch demo on 25th at 9 AM IST......Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases...</h1>
 <hr>
 <div style="text-align: center;">
